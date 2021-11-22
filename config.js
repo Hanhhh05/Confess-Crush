@@ -1,9 +1,9 @@
 const CONFIG = {
-    titleWeb: "Gửi cho nguoiyeu của tui<3",
+    titleWeb: "Gửi cho homie của tui<3",
     introTitle: 'Homie oiii:33',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
+    Mà sao homie cứ đi nhầm đường
+    Lạc vào tim toy lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
